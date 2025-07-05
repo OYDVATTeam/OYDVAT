@@ -12,5 +12,6 @@ OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
 # How to use
 1. Download the version at Releases section, the latest prerelease
 2. Make sure Python is installed.
-3. Run the script
-4. It will start protecting you in Microsoft Edge
+3. Extract the archive
+4. Run the script
+5. It will start protecting you in Microsoft Edge
