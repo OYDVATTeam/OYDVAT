@@ -1,5 +1,5 @@
 # OYDVAT
-Welcome to OYDVAT, a place to stop dangerous videos on YouTube from loading
+Welcome to OYDVAT, a place to stop dangerous videos on YouTube from loading, 
 OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
 
 # Requirements
