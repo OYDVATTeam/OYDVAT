@@ -15,3 +15,10 @@ OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
 3. Extract the archive
 4. Run the script
 5. It will start protecting you in Microsoft Edge
+
+# Development cycle
+Versions 0.01 - 0.10 : Unstable builds
+Versions 0.11 - 0.50 : Candidate builds
+Versions 0.51 - 0.90 : Beta builds
+Versions 0.91 - 0.99 : Before release builds
+Version 1.00 : Final
