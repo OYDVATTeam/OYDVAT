@@ -1,7 +1,7 @@
 # OYDVAT
 Welcome to OYDVAT, a place to stop dangerous videos on YouTube from loading, 
 OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
-# INFO: OYDVAT 0.04 will be coded in C and wont be posted on Releases section. Python will be unnecessary soon
+# INFO: OYDVAT 0.04 will be coded in C and wont be posted on Releases section. Python will be unnecessary soon. C version is untested and might contain bugs, so stay on OYDVAT 0.03 for now...
 
 # Requirements
 1. Python (SOON UNNECESSARY),
