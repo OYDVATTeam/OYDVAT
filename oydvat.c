@@ -252,8 +252,7 @@ int main(void) {
         } __except (EXCEPTION_EXECUTE_HANDLER) {
             printf("OYDVAT LOG: An unexpected error occurred in main.\n");
         }
-        // Sleep for a short time to avoid busy-looping (5000ms = 5s)
-        Sleep(5000);
+        // No need for sleeping.
     }
 
     return 0;
