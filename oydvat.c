@@ -243,15 +243,11 @@ int main(void) {
 
     // Infinite loop similar to the Python script
     for (;;) {
-        __try {
-            check_browser("msedge.exe");
-            check_browser("yt-dlp.exe");
-            check_browser("chrome.exe");
-            check_browser("firefox.exe");
-            check_browser("DuckDuckGo.exe");
-        } __except (EXCEPTION_EXECUTE_HANDLER) {
-            printf("OYDVAT LOG: An unexpected error occurred in main.\n");
-        }
+        check_browser("msedge.exe");
+        check_browser("yt-dlp.exe");
+        check_browser("chrome.exe");
+        check_browser("firefox.exe");
+        check_browser("DuckDuckGo.exe");
         // No need for sleeping.
     }
 
