@@ -3,3 +3,4 @@ project(OYDVAT)
 include(CTest)
 
 add_executable(OYDVAT oydvat.c)
+add_test(NAME OYDVATTest COMMAND test.bat)
