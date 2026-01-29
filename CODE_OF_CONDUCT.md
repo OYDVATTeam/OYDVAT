@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-The contributing guidelines are rules to follow before contributing
+The contributing guidelines are rules to follow before contributing, 
 Contributing Guidelines:
 
 1. The tests MUST succeed.
