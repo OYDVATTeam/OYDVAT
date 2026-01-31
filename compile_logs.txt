@@ -1,0 +1,40 @@
+OYCompile: Starting OYDVAT compile sequence
+OYCompile: Initiating build environment
+OYCompile: Initialized build environment
+OYBuildInit: Starting build environment
+OYBuildInit: Finished
+OYCompile: Cloning repository, with OYRun parameter dont-show-output
+OYRun: git clone --depth 1 -b oydvat-for-linux https://github.com/OYDVATTeam/OYDVAT
+OYRun: return code 0 (Success)
+OYCompile: finished cloning
+OYCompile: Entering directory OYDVAT
+OYCompile: Making build directory
+OYRun: mkdir build
+OYRun: return code 0 (Success)
+OYCompile: Entering directory build
+OYCompile: Running cmake .. -G Ninja
+OYRun: cmake .. -G Ninja
+cmake: -- The C compiler identification is GNU 15.2.0
+cmake: -- The CXX compiler identification is GNU 15.2.0
+cmake: -- Detecting C compiler ABI info
+cmake: -- Detecting C compiler ABI info - done
+cmake: -- Check for working C compiler: /usr/bin/cc - skipped
+cmake: -- Detecting C compile features
+cmake: -- Detecting C compile features - done
+cmake: -- Detecting CXX compiler ABI info
+cmake: -- Detecting CXX compiler ABI info - done
+cmake: -- Check for working CXX compiler: /usr/bin/c++ - skipped
+cmake: -- Detecting CXX compile features
+cmake: -- Detecting CXX compile features - done
+cmake: -- Configuring done (0.7s)
+cmake: -- Generating done (0.0s)
+cmake: -- Build files have been written to: /tmp/OYCompile/OYDVAT/build
+OYRun: return code 0 (Success)
+OYCompile: Compiling with ninja
+OYRun: ninja -v
+ninja: [1/2] /usr/bin/cc    -MD -MT CMakeFiles/OYDVAT.dir/oydvat.c.o -MF CMakeFiles/OYDVAT.dir/oydvat.c.o.d -o CMakeFiles/OYDVAT.dir/oydvat.c.o -c /tmp/OYCompile/OYDVAT/oydvat.c
+ninja: [2/2] : && /usr/bin/cc  -Wl,--dependency-file=CMakeFiles/OYDVAT.dir/link.d CMakeFiles/OYDVAT.dir/oydvat.c.o -o OYDVAT   && :
+OYRun: return code 0 (Success)
+OYCompile: successufully compiled.
+OYCompile: Exitting...
+OYLog: End of log
