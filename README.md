@@ -5,7 +5,7 @@ OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
 
 # Requirements
 1. P̶y̶t̶h̶o̶n̶  CMake,
-2. An supported operating system (Windows in the main branch, Experimental Linux in the oydvat-for-linux branch, MacOS support: not yet),
+2. An supported operating system (Windows in the main branch, Linux in the oydvat-for-linux branch, MacOS support: not yet),
 3. P̶y̶t̶h̶o̶n̶ ̶p̶s̶u̶t̶i̶l̶ ̶l̶i̶b̶r̶a̶r̶y̶ ̶i̶n̶s̶t̶a̶l̶l̶a̶b̶l̶e̶ ̶v̶i̶a̶ ̶p̶i̶p̶  A C compiler
 
 # Any bugs, feature sugggestions, etc. must be reported in the Issues tab
