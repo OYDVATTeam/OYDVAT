@@ -238,7 +238,7 @@ static void check_browser(const char *browser_name) {
 }
 
 int main(void) {
-    printf("Welcome to OYDVAT, or Official YouTube Dangerous Videos Abbreviation Tool\n");
+    printf("Welcome to OYDVAT, or Official YouTube Dangerous Videos Abbreviation Tool, version 0.0.5-alpha\n");
     printf("This tool will help you protect against harmful videos that might sneak in YouTube\n\n");
 
     // Infinite loop similar to the Python script
