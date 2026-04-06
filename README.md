@@ -1,3 +1,8 @@
+> [!CAUTION]  
+> Unfortunately, OYDVAT is being deprecated. For copyright reasons. \
+> We can't maintain this tool without being scared of Google \
+> If you want to maintain this tool, contact bozoingbozo@gmail.com email \
+> I will still make interesting utilities for you guys
 # OYDVAT
 Welcome to OYDVAT, a place to stop dangerous videos on YouTube from loading, 
 OYDVAT stands for Official YouTube Dangerous Videos Abbreviation Tool
