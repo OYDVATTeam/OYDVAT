@@ -9,4 +9,4 @@ start https://www.youtube.com/shorts/7LocaReldQY
 :: let oydvat do its job
 timeout 6
 :: end OYDVAT process, probably succeed
-taskkill /f /im OYDVA
+taskkill /f /im OYDV
